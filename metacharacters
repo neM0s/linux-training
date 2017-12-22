@@ -1,0 +1,9 @@
+1. Log in as user1
+2. In home directory create empty files: "file1", "file2", "file3", "file4", "file5"
+3. Do same as in point 2, but with single command.
+4. Create dir_file and move all files: "file1-5" to it with one command. Do it last with three different methods.
+5. Copy all files except "file1" and "file5" to dir_files with one command.
+6. Use ls to show only "file2", "file4".
+7. Do above with metacharacter ?(pattern_list).
+8. Write a command that will do same as point 6 with !(pattern_list).
+9. Remove "file2", "file3" and "file4" with one command.
