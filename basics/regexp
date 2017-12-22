@@ -1,0 +1,4 @@
+1. With one grep command show all line that consist "user" from "/etc/passwd".
+2. Use grep to find words "Jola", "Jozek" in file "phones".
+3. Count how many users are using "bash" shell. It has to be done for specific field in /etc/passwd, in example user named bash shouldn't be counted.
+4. Use grep to find "Adas", "Artek" in file phones.
