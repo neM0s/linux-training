@@ -1,0 +1,14 @@
+1. What command identifies all running processes in the current terminal console?
+2. What is the highest priority number you can set for a process with the nice command?
+3. What tar command option can be used to archive the files of an existing directory while saving its SELinux contexts?
+4. You want to create an archive of the /etc directory. What command do you need to run to create a compressed bzip2 archive of that directory? Assume that archive is named /tmp/etc.tar.bz2
+5. You want to schedule a maintenance job, to run from your home directory on the first of every month at 4:00 A.M. You've run the crontab -e command to open your person crontabl file.
+6.Suppose you see the following entry in the output to the crontab -l command:
+42 4 1 * * root run-parts /etc/cron.monthly
+What is the next time Linux will run the jobs in the /etc/cron.monthly directory?
+7. If the users tim and stephane are listed in both /etc/cron.allow and the /etc/cron.deny files, and user donna only in cron.allow, which of those users is allow to run crontab -e command?
+8. What file is used to configure log file rotation?
+9. What entry in the /etc/rsyslog.conf file would notify logged-in users whenever there is a critical problem with the kernel?
+10.There are several files in the /var/log directory related to what happened during the installation process. What is the first word shared by the name of there log files?
+11.What command displays all systemd journal entries with a priority equal to alert o higher?
+12.How you can show the systemd journal entries related to the httpd daemon logged since 16th of March 2015?

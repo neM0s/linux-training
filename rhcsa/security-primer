@@ -1,0 +1,11 @@
+1. What security option is best for a service that isn't currently required on a system?
+2. What directorioes include the configuration files that define the firewalld services?
+3. You are setting up a small office and would like to provide Internet access to a small number of users but don't have enought dedicated public IPv4 addresses for eash system on the network. What can you do?
+4. What firewalld-cmd command switch sets up masquerading?
+5. What firewalld-cmd command adds a rich rule to the default zone to allow http connections only from the 192.168.122.50 host?
+6. What firewalld-cmd command option is used to make permanent configuration changes?
+7. With TCP Wrappers configuration files, how could you limit FTP access to clients on the 192.168.170.0/24 network?
+8. What happens to a service if you allow the service in /etc/host.alow and prohibit it in /etc/hosts.deny?
+9. What are the four basic PAM rule types?
+10.You are editing a PAM configuration file by adding a module. Which onctrol flag immediately terminates the authentiction process if the module succeeds?
+11.What command list the GPG public keys loaded on the current local account?

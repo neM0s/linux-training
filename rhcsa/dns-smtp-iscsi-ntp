@@ -1,0 +1,12 @@
+1. Name two packages that provide DNS services on RHEL7.
+2. To configure DNS communication on port 53, what changes would you make to support access by other clients to the local DNS server?
+3. What file includes a basic template for a BIND DNS caching-only name server?
+4. What command make sure that the BIND DNS service starts the next time you boot Linux in the default target?
+5. List two examples of an MTA available on RHEL7.
+6. What command can be used to switch between the installed Postfix and sendmail services?
+7. How would you change the following directive in /etc/postfix/main.cf to open postfix all systems?
+8. If you use /etc/aliases for forwarding e-mail, what command process these files into an appropriate database file for Postfix?
+9. What directive in the main.cf file is used to sepcify the domain served by the Postfix server?
+10.What service should be running on reboot on a properly configured iSCSI target?
+11.What commad utility can be used to configure an iSCSI target?
+12.Enter a directive, suitable for /etc/ntp.conf, that limits accesss to the 192.168.0.0/24 network.

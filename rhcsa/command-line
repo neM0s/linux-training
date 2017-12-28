@@ -1,0 +1,12 @@
+1. What is name of the default Linux shell.
+2. How to check what is current working shell?
+3. How to switch from GUI to virtual console3?
+4. What single command created the /abc/def/ghi/jkl series of directories?
+5. What symbol represents the home directory of the current user?
+6. What command list the last 10 lines of the /var/log/messages file?
+7. What command returns line with the term Linux from dmesg?
+8. What command searches the database of man pages for manual that reference the passwd command and configuration file?
+9. In IPv4 addressing, with a network address 192.168.100.0 and broadcast address of 192.168.100.255, what is the range of assignable IP addresses?
+10. Assign 192.168.100.100 ip address with netmast 24 to one of interfaces.
+11. What is the full path to the configuration file with the hostname of local system?
+12 What is the default full path to the configuration file associated with the eth0 Ethernet adapter for the local system?

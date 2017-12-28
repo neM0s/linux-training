@@ -1,0 +1,13 @@
+1. Wich RPM package provides the MariaDB server?
+2. Which four actions are performed by the mysql_secure_installation script?
+3. Which configuration directive runs MariaDB on TCP port 33066?
+4. What SQL command would you use to create a database named foo?
+5. What SQL command would you use to create a table named person, containing two colums to store the first and last name?
+6. What SQL command would you run to print all the records in the table salaries, where the value in the column salary is greater than or equal to 10,000?
+7. What SQL command would you run to insert the values 7 and "finance" in the columnt id nad department of the departments table?
+8. What SQL command would you run to delete all the records in the employees table where the last_name columnt is equal to "Smith"?
+9. What SQL command would you run to change the value of the first_name column to "Adam" in the employees table where the id columnt is equal to 5?
+10.To disable all TCP connections, what directive would you include in /etc/my.cnf?
+11.What command would you use to set up a user named "redhat" with password "redhat"? Also, give that user read-only access to table named "bar" on the database "foo", and grant access only from IP address 192.168.1.1.
+12.How do you display what privileges you have as a user logged in to a MariaDB client?
+13.What is the command to back up the entire database foo to a text file /tmp/foo.sql?

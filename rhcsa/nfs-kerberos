@@ -1,0 +1,10 @@
+1. In the /etc/exports file, you want to export the /data directory as read-only to all hosts and grant read and write permission to the hostname superv in the example.com domain. What directive would you enter in that file?
+2. Once you've configured /etc/exports, what command exports these shares?
+3. What port number is associated with the portmapper?
+4. What port number is associated with NFSv4?
+5. What is the NFS configuration option that supports access by the root administrative user?
+6. You're expriencing problems with NFS clients for various reasons, including frequent downtime on the NFS server and network discenntions between NFS clients and servers. What type of mounting can prevent NFS clients from hanging and retrying NFS requests indefinitely?
+7. What is the command that can display NFS shared directories from the example server?
+8. Which serivce should you start on an NFS client to support Kerberos-based authentication via the rpcgssd daemon?
+9. What directive should you include to mount an NFS share with Kerberos authentication and encryption?
+10.What directive should you add to /etc/exports to export an NFS share with standard file access permission and optionally with Kerberos authentication?

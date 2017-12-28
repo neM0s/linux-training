@@ -1,0 +1,12 @@
+1. What fdisk command option lists configured partitions from all attached hard drives?
+2. After a swap partition has been created, what command activates it?
+3. What is the primary advantage of a journaling filesystem such as XFS?
+4. What command formats block device to the default Red Hat filesystem format?
+5. What filesystem is mounted on a directory separate from the top-level root directory in the default RHEL7 installation?
+6. Name three directories just below / that are not suitable for mounting separately from the volume with the top-level root directory.
+7. Once you've created a new partition and set it to the LVM type, what command adds it as a PV?
+8. Once you've added more space to LV, what command would expand the underlinig XFS filesystem to fill the new space?
+9. To change the mount options for a local filesystem, what file would you edit?
+10.What would you add to the /etc/fstab file to set up access to the partition /dev/vda6, mounted on the /usr directory as read-only with other default options. Use dump value of 1 and filesystem check order of 2.
+11.If you've started the autofs daemon and want to read the list of shared NFS directoris from server, what automounter-related command would you use?
+12.Name Three configuration files associated with the default installation of the automounted on RHEL7.

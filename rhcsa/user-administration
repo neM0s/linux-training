@@ -1,0 +1,11 @@
+1. What's the standard minimum user ID numer for regular users on Red Hat?
+2. What file regulates the local consoles where the root user can log in?
+3. Which file controls the commands that a user can run with the privileges of root or of another user?
+4. When a regules user uses the sudo command to run an administrative command, what password is required?
+5. If you want to add files to every new user account, what directory shoul you use?
+6. What are the system0wide configuration files associated with the bash shell?
+7. If user objects are located in the Organizational Unit named "People", within another organizational Unit named "Global", which is part of the LDAP domain dc=example, dc=org, what is the LDAP Search Base DN?
+8. What's the full path to the file that refers to an LDAP database for authentication?
+9. What command set the SGID bit on the /home/developer directory?
+10.What command would set up ownership of the developer group on the /home/developer directory?
+11.What command would add user alpha to the developer group?

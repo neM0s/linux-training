@@ -1,0 +1,13 @@
+1. What command configures read and write permissions on the file named file1 in the local directory, for the file owner, with no permission for any other user?
+2. What single command changes the user owner to professor and group owner to assistants for the local file named question2?
+3. What command would change the attributes of a file named file3 to allow you to only append to that file?
+4. What command reads current ACLs for the local file named file4?
+5. What single command gives member of the group named managers read access to the project5 file in /home/project directory? Assume the managers group already has read  and execute access to the directory.
+6. What command prevents members of the group named temps from having any access to the secret6 file in the /home/project directory?
+7. What TCP/IP port number is associated with the HTTP service?
+8. List the full firewall-cmd command to permanently allow incoming HTTP  traffic for the default firewalld zone.
+9. What command configured a private/public key pair using DS?
+10.What subdirectory of a user home directory contains the authorized_keys file?
+11.What command configures SELinux in enforcing mode?
+12.What command lists the SELinux status of current users?
+13.What command lists all boolean setting for SELinux?

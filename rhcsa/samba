@@ -1,0 +1,12 @@
+1. An IT Department that runs Microsoft servers has set up a Windows Server to handle file and print sharing services. This server correctly refers to a WINS server on 192.168.55.3 for name resolution and configures all user logins through the DC on 192.168.55.8. If you're configuring the local Linux system as a DC, what directive, at a minimum, do you have configure in the local Samba configuration file?
+2. You've recently revised the Samba configuration file and do not want to disconnect any current users. What command forces the Samba and NetBIOS service to reread the configuration file withouth having to disconnect Microsoft users or restart the service?
+3. What ports must be open for a Samba server to work with remote systems?
+4. What SELinux setting is appropriate for sharing home directories over Samba?
+5. What SELinux file context type is appropriate for shared directories on Samba?
+6. What Samba directive limits access to systems on the example.org network?
+7. What Samba directive limits access to users tim and stephanie?
+8. What Samba directive supports access to all users in a shared directory?
+9. What Samba directive lmits access in a shared stanza to a configured group named ilovelinux?
+10.What command adds user elizabeth to a tdbsam Samba authentication database?
+11.What command can be used to mount remotely shared Microsoft directories?
+12.You made a couple of quick changes to a Samba configuration file and need to test it quickly for sytanx errors. What command tests smb.conf for syntax errors?

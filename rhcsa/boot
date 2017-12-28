@@ -1,0 +1,13 @@
+1. On what part of the boot hard drive is the first stage of the GRUB2 bootloader typically located?
+2. When you see the BGRUB2 configuration menu, what command would you use to modify the configuration?
+3.What string would you add to the linux16 command line to boot into the emergency target?
+4. If you see the "set root='hd0,msdos1'" directive in the GRUB2 configuration file, on what partition is the /boot directory? Assume the GRUB2 configuration file is properly configured.
+5. What temporary file system is loaded directly from the GRUB2 menu?
+6. What one-word command can you use to read systemd log messages?
+7. In what directories can you find the configuration files associated with  the first process?
+8. How to you switch from the graphical target to the multi-user target?
+9. What command lists the default target?
+10.Name three commands that can be typically run from systemctl to control the status of systemd units.
+11.What command lists the state of all systemd units currently available on the local system, including those that are not active?
+12.What command lists the current time, time zone, and status of the NTP service?
+13.What configuration file is used by chronyd?

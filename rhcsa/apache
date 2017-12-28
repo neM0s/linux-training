@@ -1,0 +1,16 @@
+1. What is the Apache directive that specifies the base directory for configuration and log files?
+2. Once you've modified httpd.conf, what command would make Apache reread this file, without kicking off currently connected users?
+3. What directive specifies the TCP/IP port associated with Apache?
+4. What command creates the /etc/httpd/passwords file and configures a password for user elizabeth?
+5. If you see the following directives limiting access within the container for a virtual host, what computers are allowed access?
+
+Order Allow,Deny
+Allow from 192.168.0.0/24
+
+6. What standard services do y ou need to open in firewalld to allow access to a regular website and a secure one?
+7. What regular permissions would work with a home directory that's shared via Apache?
+8. What regular permissions would work with a shared group directory that's also shared via Apache?
+9. What file does RHEL provide to help configure a virtual host as a secure server?
+10.If you're creating a name-based virtual hosts, how many IP addresses would be required for three virtual servers?
+11.To verify the configuration of one or more virtual hosts, what switch can you use with the httpd command?
+12.What option with the "Options" directive supports dynamic CGI  content in an Apache configuration file?

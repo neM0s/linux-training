@@ -1,0 +1,12 @@
+1. Which exit code is associated with success in a script?
+2. Write a bash test command to check if a file exists and is executable.
+3. Write a bash for statemenet to cycle through all the users in a system.
+4. What directory includes a cron job that logs system activity? Assume the appropriate package is installed.
+5. On a RHEL7 system, where can you find a sample command to create a system utilization report?
+6. What's the full path to the /proc file associated with the net.ipv4.ip_forward paramater?
+7. What are the configuration parameters associated with a static route?
+8. What is the shortest representation of the 2001:0db8:00aa:0000:04ba:0000:0000:00cd IPv6 address?
+9. What command can you use to ping an IPv6 address?
+10.What command can you run to check the status of a bond0 interface and of its slave interfaces?
+11.What is the standard Kerberos realm for the server1.example.com system/
+12.Which command do you run to list the Kerberos tickets for the current user?

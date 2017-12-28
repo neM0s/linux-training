@@ -1,0 +1,12 @@
+1. Which directory durectry includes configuration files that specify startup options for various service daemons?
+2. What command reloads the configuration of the SSH server without stopping the service?
+3. What directory contains boolean options associated with SELinux? Specify full path.
+4. What man page contains SELinux options associated with NFS daemons?
+5. What command restores the default SELinux file context on a given directory?
+6. What file is modified when you run the seamanage fcontext -a command? Hint: It's in the /etc.selinux/targeted/contexts/files directory.
+7. Which command lists the current SELinux port label configuration for the MariaDB (MySQL) service?
+8. What directory contains the OpenSSH server configuration file and host keys?
+9. What directive specifies the port number of the local SSH server in the associated configuration file?
+10.What directive specifies a list of allowed users in the SSH server configuration file?
+11.What command displays a list of available environment groups?
+12.What command can help the abscd service survive a reboot?

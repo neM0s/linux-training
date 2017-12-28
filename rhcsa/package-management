@@ -1,0 +1,12 @@
+1. What command would you use to install dstat package, with extra messages in case of errors? The package is on the local directory.
+2. What command would you use to upgrade package located on ftp share.
+3. If you've downloaded a later version of the Linux kernel to the local directory, what's the best command to make it a part of you system?
+4. What directory contains RPM GPG keys on an installed system.
+5. What command lists all curently installed RPMs?
+6. What command lists all the files in the package example.rpm?
+7. If you've downloaded an RPM from a third party called example.rpm how can you validate the associated package signature?
+8. What is the full path to the directory where the location of yum repositories are normally configured?
+9. What command searches yum repositories for the package associated with the /etc/passwd file?
+10.What command-line command lists the package groups shown in the GNOME Software tool?
+11.Name two allowable time periods for automatic update, as defined by the Software Update Preferences tool.
+12.What command from the console starts the process of registration on RHSM?
